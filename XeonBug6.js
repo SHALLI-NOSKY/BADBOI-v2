@@ -1286,23 +1286,29 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'script':
             case 'scriptbot':
                 XeonBotInc.sendMessage(m.chat, {
-                    text: `╭╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╮
+                    text: `▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
- ➨ 𝑯𝒊  ${pushname}
+•  𝑯𝒊  ${pushname}
 
- ➨ 𝑰 𝒂𝒎 𝙱𝙰𝙳-𝙱𝙾𝙸 𝚅2 𝙱𝚄𝙶.
+•  𝑰 𝒂𝒎 𝙱𝙰𝙳-𝙱𝙾𝙸 𝚅2 𝙱𝚄𝙶.
 
- ➨ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.
+•  𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.
 
- ➨ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.
+•  𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.
 
  ➨𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➻ ❴ https://github.com/BADBOI-v1/BADBOI-v2 ❵
 
- ➨ 𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.
+•  𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.
 
- ➨ 𝑴𝒂𝒅𝒆 𝑩𝒚 ➻ BADBOI|| lord emperor✇
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-╰╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼`,
+𝐂𝐑𝐄𝐃𝐈𝐓𝐒
+
+𝐁𝐀𝐃𝐁𝐎𝐈-𝐯𝟐
+𝐋𝐎𝐑𝐃 𝐄𝐌𝐏𝐄𝐑𝐎𝐑
+𝐋𝐎𝐑𝐃 𝐓𝐊𝐌
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
@@ -2298,115 +2304,132 @@ break
             case '?':
             case 'allmenu':
                 let xeonmenuoh = `Hello ${pushname}
-╰┈➤ ${xeonytimewisher} 😄
+${xeonytimewisher} 😄
 ${readmore}
-T͟H͟A͟N͟K͟S͟ F͟O͟R͟ U͟S͟I͟N͟G͟ B͟A͟D͟-B͟O͟I͟ V͟2
+▌𝐁𝐀𝐃𝐁𝐎𝐈-𝐯𝟐 𝐛𝐮𝐠●➤ 
 ${readmore}
-╰┈➤ ʙᴜɢ ᴀɴᴅʀᴏɪᴅ
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*ʙᴜɢ ᴀɴᴅʀᴏɪᴅ*
+
 🕸 xandroid 
 🕸 xandroid2
 🕷 systemuicrash
 🕷 xsysui
 
-╰┈➤ ʙᴜɢ ɪᴏꜱ
+*ʙᴜɢ ɪᴏꜱ*
+
 🕷 xios
 🕷 xios2
 
-╰┈➤ ʙᴜɢ ɢʀᴏᴜᴘ ᴄʜᴀᴛ
+*ʙᴜɢ ɢʀᴏᴜᴘ ᴄʜᴀᴛ*
+
 🕷 xgc
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*ᴏᴡɴᴇʀ ᴍᴇɴᴜ*
 
-╰┈➤ ᴏᴡɴᴇʀ ᴍᴇɴᴜ
-🏃 getsession
-😋 deletesession
-👏 join
-🙅‍♂️ shutdown  
-🏃 restart
-📖 autoread *[option]*
-⌨️ autotyping *[option]*
-🎥 autorecording *[option]*
-📖🎥 autorecordtyp *[option]*
-☣️ autobio *[option]*
-🗾 autoswview *[option]*
-📳📴 mode *[option]*
-🧴 block
-🧴 unblock 
-⏮ backup
-⚰️ getcase
-⚠️ addowner
-📴 delowner
+• getsession
+• deletesession
+• join
+• shutdown  
+• restart
+• autoread *[option]*
+• autotyping *[option]*
+• autorecording *[option]*
+• autorecordtyp *[option]*
+• autobio *[option]*
+• autoswview *[option]*
+• mode *[option]*
+• block
+• unblock 
+• backup
+•️ getcase
+• addowner
+• delowner
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*ɢʀᴏᴜᴘ ᴍᴇɴᴜ*
 
-╰┈➤ ɢʀᴏᴜᴘ ᴍᴇɴᴜ
-😍 closetime
-😍 opentime
-😍 kick
-😍 add
-😍 promote
-😍 demote
-😍 setdesc
-😍 setppgc
-😍 tagall
-😍 hidetag
-😍 totag
-😍 group *[option]*
-😍 editinfo
-😍 linkgc
-😍 revoke
-😍 listonline
+• closetime
+• opentime
+• kick
+• add
+• promote
+• demote
+• setdesc
+• setppgc
+• tagall
+• hidetag
+• totag
+• group *[option]*
+• editinfo
+• linkgc
+• revoke
+• listonline
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*ᴍᴀɪɴ ᴍᴇɴᴜ*
 
-╰┈➤ ᴍᴀɪɴ ᴍᴇɴᴜ
-⭐️ menu
-⭐️ buypremium
-⭐️ runtime
-⭐️ script
-⭐️ donate
-⭐️ owner
+• menu
+• buypremium
+• runtime
+• script
+• donate
+• owner
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ*
 
-╰┈➤ ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ
-👋 sticker
-👋 smeme
-👋 take
-👋 toimage
-👋 tovideo
-👋 toaudio
-👋 tomp3
-👋 tovn
-👋 togif
-👋 tourl
-👋 toqr
-👋 toviewonce
-👋 fliptext
-👋 emojimix
+• sticker
+• smeme
+• take
+• toimage
+• tovideo
+• toaudio
+• tomp3
+• tovn
+• togif
+• tourl
+• toqr
+• toviewonce
+• fliptext
+• emojimix
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*ᴅᴀᴛᴀʙᴀsᴇ ᴍᴇɴᴜ*
 
-╰┈➤ ᴅᴀᴛᴀʙᴀsᴇ ᴍᴇɴᴜ
-🛑 addvideo
-🛑 addimage
-🛑 addsticker
-🛑 addvn
-🛑 addzip
-🛑 addapk
-🛑 addpdf
-🛑 delvideo
-🛑 delimage
-🛑 delsticker
-🛑 delvn
-🛑 delzip
-🛑 delapk
-🛑 delpdf
-🛑 listvideo
-🛑 listimage
-🛑 liststicker
-🛑 listvn
-🛑 listzip
-🛑 listapk
-🛑 listpdf
+• addvideo
+• addimage
+• addsticker
+• addvn
+• addzip
+• addapk
+• addpdf
+• delvideo
+• delimage
+• delsticker
+• delvn
+• delzip
+• delapk
+• delpdf
+• listvideo
+• listimage
+• liststicker
+• listvn
+• listzip
+• listapk
+• listpdf
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*ᴅᴏᴡɴ ᴍᴇɴᴜ*
 
-╰┈➤ ᴅᴏᴡɴ ᴍᴇɴᴜ
-▶️ play
-▶️ ytmp3
-▶️ ytmp4
-▶️ sound1 - sound161
+• play
+• ytmp3
+• ytmp4
+• sound1 - sound161
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+> credits
 
-> made by lord emperor || BAD-BOI`
+𝐁𝐀𝐃-𝐁𝐎𝐈
+
+𝐋𝐎𝐑𝐃 𝐄𝐌𝐏𝐄𝐑𝐎𝐑
+
+𝐋𝐎𝐑𝐃 𝐓𝐊𝐌
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
